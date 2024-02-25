@@ -1,13 +1,9 @@
+/* Styles for homepage */
+
 body {
   background-color: #000000;
   color: #ffffa0;
   font-family: "Trebuchet MS", Verdana, sans-serif;
-}
-
-.recipe-page {
-  background-color: #ffffc1;
-  color: rgb(0, 0, 0);
-  font-size: 19px;
 }
 
 h1 {
@@ -36,6 +32,14 @@ a {
 
 a:hover {
   color: #808080;
+}
+
+/* Styles for recipes pages */
+
+.recipe-page {
+  background-color: #ffffc1;
+  color: rgb(0, 0, 0);
+  font-size: 19px;
 }
 
 .recipe-name {
