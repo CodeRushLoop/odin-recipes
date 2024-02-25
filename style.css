@@ -1,0 +1,33 @@
+body {
+  background-color: #000000;
+  color: #ffffa0;
+  font-family: "Trebuchet MS", Verdana, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  text-shadow: 0px 4px 4px #f52e1c;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+}
+
+a {
+  color: #ffffa0;
+  font-size: 30px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #808080;
+}
