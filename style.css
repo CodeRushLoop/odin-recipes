@@ -51,6 +51,11 @@ a:hover {
   text-shadow: 0px 4px 4px #5e5e5e;
 }
 
+.recipe-content {
+  width: 1100px;
+  margin: 0 auto;
+}
+
 .recipe-description,
 .recipe-ingredients,
 .recipe-steps {
